@@ -1,5 +1,5 @@
 # deep image prior - tensorflow
-A simple yet working implementation of Deep Image Prior paper [https://arxiv.org/pdf/1711.10925.pdf](https://arxiv.org/pdf/1711.10925.pdf) using tensorflow. Free to use/reuse, give me a *star* if you feel it is helpful to you. 
+A simple yet working implementation of Deep Image Prior paper [https://arxiv.org/pdf/1711.10925.pdf](https://arxiv.org/pdf/1711.10925.pdf) using tensorflow. Free to use/reuse, give me a **star** if you feel it is helpful to you. 
 
 Currently I only implemented the denoising use case.
 
