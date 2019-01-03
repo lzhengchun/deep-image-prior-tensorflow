@@ -3,6 +3,7 @@
 # https://github.com/lzhengchun/deep-image-prior-tensorflow 
 # created by Zhengchun Liu at https://lzhengchun.github.io
 # free to use / reuse
+# just give me a star if you feel it is helpful to you
 ##########################################################################
 
 import tensorflow as tf
