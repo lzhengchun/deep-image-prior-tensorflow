@@ -9,16 +9,10 @@ Denoising to remove the image compression artifact.
 
 Results after every 500 iterations:
 
-<img src="out/denoised-it000.png" alt="Drawing" style="width: 100px;"/>
-<img src="out/denoised-it500.png" alt="Drawing" style="width: 100px;"/>
-<img src="out/denoised-it1000.png" alt="Drawing" style="width: 100px;"/>
-<img src="out/denoised-it1500.png" alt="Drawing" style="width: 100px;"/>
-<img src="out/denoised-it2000.png" alt="Drawing" style="width: 100px;"/>
-<img src="out/denoised-it2500.png" alt="Drawing" style="width: 100px;"/>
-<img src="out/denoised-it3000.png" alt="Drawing" style="width: 100px;"/>
-<img src="out/denoised-it3500.png" alt="Drawing" style="width: 100px;"/>
-<img src="out/denoised-it4000.png" alt="Drawing" style="width: 100px;"/>
-<img src="out/denoised-it4500.png" alt="Drawing" style="width: 100px;"/>
+<img src="out/denoised-it000.png" alt="Drawing" style="width: 100px;"/> <img src="out/denoised-it500.png" alt="Drawing" style="width: 100px;"/> <img src="out/denoised-it1000.png" alt="Drawing" style="width: 100px;"/> <img src="out/denoised-it1500.png" alt="Drawing" style="width: 100px;"/> <img src="out/denoised-it2000.png" alt="Drawing" style="width: 100px;"/>
+
+<img src="out/denoised-it2500.png" alt="Drawing" style="width: 100px;"/> <img src="out/denoised-it3000.png" alt="Drawing" style="width: 100px;"/> <img src="out/denoised-it3500.png" alt="Drawing" style="width: 100px;"/> <img src="out/denoised-it4000.png" alt="Drawing" style="width: 100px;"/> <img src="out/denoised-it4500.png" alt="Drawing" style="width: 100px;"/>
+
 <img src="out/denoised-it5000.png" alt="Drawing" style="width: 100px;"/>
 <img src="out/denoised-it5500.png" alt="Drawing" style="width: 100px;"/>
 <img src="out/denoised-it6000.png" alt="Drawing" style="width: 100px;"/>
