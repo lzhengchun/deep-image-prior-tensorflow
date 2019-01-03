@@ -5,8 +5,7 @@ Currently I only implemented the denoising use case.
 
 Denoising to remove the image compression artifact.
 
-<img src="img-prior-in/snail.jpg" alt="Drawing" style="width: 300px;"/>
-<img src="out/denoised-it7500.png" alt="Drawing" style="width: 300px;"/>
+<img src="img-prior-in/snail.jpg" alt="Drawing" style="width: 300px;"/> <img src="out/denoised-it7500.png" alt="Drawing" style="width: 300px;"/>
 
 Results after every 500 iterations:
 
