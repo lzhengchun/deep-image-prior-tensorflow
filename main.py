@@ -1,4 +1,10 @@
 
+##########################################################################
+# https://github.com/lzhengchun/deep-image-prior-tensorflow 
+# created by Zhengchun Liu at https://lzhengchun.github.io
+# free to use / reuse
+##########################################################################
+
 import tensorflow as tf
 import numpy as np
 import glob, skimage.measure, skimage.io, imageio, os, shutil, time
